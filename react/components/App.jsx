@@ -4,7 +4,7 @@ import Info from "./Info.jsx";
 
 const callback = (info) => {
   console.log(info);
-}
+};
 
 export default () => (
   <>
